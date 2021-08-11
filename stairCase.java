@@ -17,5 +17,6 @@ public class stairCase {
             System.out.println();                           // go to next line
             //System.out.println(n);
         }
+        input.close ();                                     // close scanner object
     }
 }
